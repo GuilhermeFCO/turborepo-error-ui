@@ -1,0 +1,8 @@
+{
+	"name": "@ui/react-native",
+	"main": "src/index.tsx",
+	"types": "src/index.tsx",
+	"dependencies": {
+		"typescript": "latest"
+	}
+}
